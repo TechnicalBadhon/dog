@@ -1,0 +1,2 @@
+python-telegram-bot==20.7
+python-dotenv  # Optional, but good practice if you use .env later
